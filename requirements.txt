@@ -1,0 +1,7 @@
+# Pre-commit hook framework
+# https://pypi.org/project/pre-commit/
+pre-commit==3.6.0
+
+# Python test framework
+# https://docs.pytest.org
+pytest==7.4.3

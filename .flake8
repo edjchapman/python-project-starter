@@ -1,0 +1,17 @@
+[flake8]
+
+# Specify a list of codes to ignore.
+
+# Provide a comma-separated list of glob patterns to exclude from checks.
+exclude =
+    .git,
+    .tox,
+    venv,
+    .venv,
+    build,
+    dist,
+    docs,
+    tests,
+    *.egg-info,
+    __pycache__,
+    .pytest_cache,
